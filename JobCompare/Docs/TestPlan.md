@@ -5,12 +5,12 @@
 ### 1.1 Overall strategy
 | ** test ** | **activities** | ** performer ** |
 |:----:| :----:| :----:|
-| Unit testing | create test case/implement automation code | Reinaldo |
-| Unit testing | Report test result | mattthewong |
-| Integration testing & system testing | create test case/implement manual testing | Xuhui Liu |
-| Integration testing & system testing | Report test result | Xuhui Liu |
-| Regression testing | create test case/implement manual testing | Xuhui Liu |
-| Regression testing | Report test result | Xuhui Liu |
+| Unit testing | create test case/implement automation code 
+| Unit testing | Report test result 
+| Integration testing & system testing | create test case/implement manual testing 
+| Integration testing & system testing | Report test result 
+| Regression testing | create test case/implement manual testing 
+| Regression testing | Report test result
 
 ### 1.2 Test Selection
 | ** test ** | **technique** | ** clarify ** |
