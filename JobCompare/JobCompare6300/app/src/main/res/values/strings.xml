@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JobCompare6300</string>
+    <string name="enter_job">Enter Current Job</string>
+    <string name="edit_job">Edit Current Job</string>
+    <string name="enter_offer">Enter New Offer</string>
+    <string name="edit_offer">Edit Offer</string>
+    <string name="adjust_settings">Adjust Comparison Settings</string>
+    <string name="compare_job">Compare</string>
+    <string name="delete_job">Delete</string>
+    <string name="set_current_job">Set current</string>
+    <string name="weight_of">Weight of:</string>
+    <string name="yearly_salary">Yearly salary</string>
+    <string name="yearly_bonus">Yearly bonus</string>
+    <string name="retirement_benefits">Retirement benefits</string>
+    <string name="relocation_stipend">Relocation stipend</string>
+    <string name="training_development_fund">Training development fund</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_job">Select job/offer to compare</string>
+    <string name="title">Title</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="index">Cost of living in the location</string>
+    <string name="decimal">Decimal</string>
+</resources>
