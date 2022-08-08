@@ -3,7 +3,7 @@
 ## 1 Testing Strategy
 
 ### 1.1 Overall strategy
-| ** test ** | **activities** | ** performer ** |
+| ** test ** | **activities**
 |:----:| :----:| :----:|
 | Unit testing | create test case/implement automation code 
 | Unit testing | Report test result 
